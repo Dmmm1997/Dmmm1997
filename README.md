@@ -2,4 +2,4 @@
 
 I am currently a third-year Ph.D. student in the School of Automation, Southeast University, under the supervision of [Prof. Wankou Yang](https://scholar.google.com/citations?user=PMzEsJgAAAAJ&hl=zh-CN).
 
-![Ming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmmm1997&show_icons=true&theme=radical)
+![Ming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dmmm1997&show_icons=true&theme=radical)
